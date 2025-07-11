@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haftom Gebremeskel Ygzaw</h1>
-<h3 align="center">Passionate to be an AI Engineer/Gen AI Engineer</h3>
+<h3 align="center">**Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftom2012&label=Profile%20views&color=0e75b6&style=flat" alt="haftom2012" /> </p>
 
-- 🌱 **Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React**
-
+- 🌱 
 I’m passionate about leveraging data and artificial intelligence to solve real-world problems and build intelligent systems. Over the past months, I’ve followed the AI Engineer Roadmap for Beginners by Codebasics, which has been a clear, structured, and highly effective guide in my learning journey. 🙏 A huge thanks to the Codebasics team for making this resource available!
 #dsroadmap24
 📚 My learning journey includes comprehensive training in:
