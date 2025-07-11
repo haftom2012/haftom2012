@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftom2012&label=Profile%20views&color=0e75b6&style=flat" alt="haftom2012" /> </p>
 
-- 🌱 I’m currently learning **Machine Leaning, ML Ops, Deep Learning, NLP, LLM and Langchaing**
+- 🌱 **Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React
+
+I’m passionate about leveraging data and artificial intelligence to solve real-world problems and build intelligent systems. Over the past months, I’ve followed the AI Engineer Roadmap for Beginners by Codebasics, which has been a clear, structured, and highly effective guide in my learning journey. 🙏 A huge thanks to the Codebasics team for making this resource available!
+#dsroadmap24**
 
 - 📫 How to reach me **haftom04@gmail.com**
 
