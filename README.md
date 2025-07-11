@@ -3,10 +3,45 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftom2012&label=Profile%20views&color=0e75b6&style=flat" alt="haftom2012" /> </p>
 
-- 🌱 **Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React
+- 🌱 **Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React**
 
 I’m passionate about leveraging data and artificial intelligence to solve real-world problems and build intelligent systems. Over the past months, I’ve followed the AI Engineer Roadmap for Beginners by Codebasics, which has been a clear, structured, and highly effective guide in my learning journey. 🙏 A huge thanks to the Codebasics team for making this resource available!
-#dsroadmap24**
+#dsroadmap24
+📚 My learning journey includes comprehensive training in:
+
+Python Programming – from basics to advanced levels
+
+Data Structures & Algorithms in Python
+
+SQL (MySQL) for effective data querying
+
+Version Control with Git & GitHub
+
+Data Analysis & EDA using NumPy, Pandas, and visualization tools like Matplotlib and Seaborn
+
+Mathematics & Statistics tailored for AI
+
+Machine Learning and model evaluation techniques
+
+Deep Learning and Neural Networks
+
+Natural Language Processing (NLP) and Large Language Models (LLMs)
+
+MLOps tools like FastAPI, Docker, and Kubernetes for deploying AI solutions
+
+💻 To support end-to-end development, I’ve also completed foundational courses in:
+
+HTML, CSS, JavaScript
+
+React & React Native
+
+Built using Visual Studio Code as the primary IDE
+
+With this blend of AI expertise and front-end development skills, I’m well-equipped to contribute to full-stack data-driven applications and intelligent systems.
+
+🌟 I’m now actively exploring collaborative opportunities, practical projects, and roles where I can contribute, grow, and make meaningful impact through technology.
+
+Let’s connect and build something impactful together!
 
 - 📫 How to reach me **haftom04@gmail.com**
 
