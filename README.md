@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haftom Gebremeskel Ygzaw</h1>
-<h3 align="center">**Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React**</h3>
+<h3 align="center">Aspiring AI & Data Science Practicioner | End-to-End Project Developer | Python | ML | Deep Learning | MLOps | LLMs | Generative AI | NLP | Computer Vision | JavaScript | React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haftom2012&label=Profile%20views&color=0e75b6&style=flat" alt="haftom2012" /> </p>
 
